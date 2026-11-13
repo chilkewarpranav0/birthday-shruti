@@ -52,6 +52,6 @@ window.BIRTHDAY_SITE = {
 
   password: {
     enabled: false, // Change to true to show a password screen
-    value: "0225" // Change this to your chosen password
+    value: "" // Change this to your chosen password
   }
 };
