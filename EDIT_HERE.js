@@ -51,7 +51,7 @@ window.BIRTHDAY_SITE = {
   musicFile: "", // Example: "our-song.mp3"
 
   password: {
-    enabled: true, // Change to true to show a password screen
+    enabled: false, // Change to true to show a password screen
     value: "0225" // Change this to your chosen password
   }
 };
