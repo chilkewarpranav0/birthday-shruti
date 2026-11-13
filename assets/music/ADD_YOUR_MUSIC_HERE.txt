@@ -1,0 +1,1 @@
+Put a legally usable MP3 in this folder, then set musicFile in EDIT_HERE.js.
